@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Stack
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Simulation
+|  |
+| ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
