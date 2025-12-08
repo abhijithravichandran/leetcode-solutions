@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
