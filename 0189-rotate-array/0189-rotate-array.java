@@ -8,9 +8,9 @@ class Solution {
 
         if(len==0 || k==0) return; 
 
+        rev(nums,0,len-k-1);
+        rev(nums,len-k,len-1);
         rev(nums,0,len-1);
-        rev(nums,0,k-1);
-        rev(nums,k,len-1);
     }
 
     public void rev(int[] nums, int left, int right){
