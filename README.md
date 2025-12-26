@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0495-teemo-attacking](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Math
