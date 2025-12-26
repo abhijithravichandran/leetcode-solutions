@@ -1,6 +1,6 @@
 class Solution {
     public int findPoisonedDuration(int[] timeSeries, int duration) {
-        if(timeSeries.length==0) return 0; 
+        if(timeSeries.length==0 || duration==0) return 0; 
 
         int total = 0; 
 
