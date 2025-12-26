@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0290-word-pattern](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Greedy
