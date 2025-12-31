@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2063-vowels-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2469-convert-the-temperature](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [2063-vowels-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0468-validate-ip-address) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [2063-vowels-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3606-coupon-code-validator](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## String Matching
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
