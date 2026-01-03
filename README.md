@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Search
