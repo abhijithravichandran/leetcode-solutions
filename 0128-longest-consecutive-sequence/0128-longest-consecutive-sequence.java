@@ -13,7 +13,6 @@ class Solution {
                 int cur = num; 
 
                 while(map.contains(cur+1)){
-                    // map.remove(cur+1);
                     count++;
                     cur++; 
                 }
