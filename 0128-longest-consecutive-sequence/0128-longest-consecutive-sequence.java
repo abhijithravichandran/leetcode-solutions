@@ -6,17 +6,19 @@ class Solution {
             map.add(num);
         }
         int longest = 0; 
-        for(int i=0; i <  nums.length; i++){
-            int num = nums[i];
+        for(int num: nums){
+           
             if(!map.contains(num-1)){
                 int count = 1; 
-                while(map.contains(num+1)){
-                    map.remove(num+1);
-                    count++;
-                    num +=1; 
-                }
-                longest = Math.max(count,longest);
+                int cur = num; 
 
+                while(map.contains(cur+1)){
+                    map.remove(cur+1);
+                    count++;
+                    cur++; 
+                }
+
+                longest = Math.max(count,longest);
             }
         }
          return longest; 
