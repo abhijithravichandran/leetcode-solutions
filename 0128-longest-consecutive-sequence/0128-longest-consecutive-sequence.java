@@ -9,10 +9,9 @@ class Solution {
         for(int i=0; i <  nums.length; i++){
             int num = nums[i];
             if(!map.contains(num-1)){
-                // int j = 1;
-                int count = 0; 
-                while(map.contains(num)){
-                    map.remove(num);
+                int count = 1; 
+                while(map.contains(num+1)){
+                    map.remove(num+1);
                     count++;
                     num +=1; 
                 }
