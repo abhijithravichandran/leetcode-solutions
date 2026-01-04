@@ -18,6 +18,7 @@ class Solution {
                     sum += (num/i);
                 }
             }
+            if(count > 4) break; 
         }
         if(count!=4) return 0; 
         return sum; 
