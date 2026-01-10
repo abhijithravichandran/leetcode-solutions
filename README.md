@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## String Matching
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Greedy
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1975-maximum-matrix-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 <!---LeetCode Topics End-->
