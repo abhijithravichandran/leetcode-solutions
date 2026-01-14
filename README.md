@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0495-teemo-attacking](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
