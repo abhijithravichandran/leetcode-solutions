@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0468-validate-ip-address) |
 | [0709-to-lower-case](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0709-to-lower-case) |
