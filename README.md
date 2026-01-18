@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0290-word-pattern) |
