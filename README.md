@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0495-teemo-attacking) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1390-four-divisors) |
@@ -237,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
