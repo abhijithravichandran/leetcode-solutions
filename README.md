@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2469-convert-the-temperature](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2523-closest-prime-numbers-in-range](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
