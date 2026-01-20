@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Memoization
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
