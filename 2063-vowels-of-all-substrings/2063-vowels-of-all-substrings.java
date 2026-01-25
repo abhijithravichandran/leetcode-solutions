@@ -1,6 +1,6 @@
 class Solution {
     public long countVowels(String word) {
-        int n = word.length();
+        long n = word.length();
         long sum = 0; 
         for(int i = 0; i < n;i++){
             char ch = word.charAt(i);
