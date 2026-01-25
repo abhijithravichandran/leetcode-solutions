@@ -1,14 +1,14 @@
 class Solution {
     public long countVowels(String word) {
-        long count = 0; 
-        long len = word.length();
-
-        for(int i = 0; i < len; i++){
+        int n = word.length();
+        long sum = 0; 
+        for(int i = 0; i < n;i++){
             char ch = word.charAt(i);
-            if(ch=='a' || ch=='e' || ch == 'i' || ch == 'o' || ch=='u'){
-                count += ((i+1) * (len-i)); 
+
+            if(ch=='a' || ch=='i' || ch=='o' || ch=='e' || ch=='u'){
+                sum += ((i+1) * (n-i));
             }
         }
-        return count; 
+        return sum;
     }
 }
