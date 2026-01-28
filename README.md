@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2063-vowels-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
