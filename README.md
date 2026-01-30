@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2574-left-and-right-sum-differences](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
