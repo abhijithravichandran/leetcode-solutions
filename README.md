@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
