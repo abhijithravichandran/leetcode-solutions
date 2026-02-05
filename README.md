@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0268-missing-number) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
