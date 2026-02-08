@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
