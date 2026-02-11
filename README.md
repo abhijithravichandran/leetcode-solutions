@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1390-four-divisors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
