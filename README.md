@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Counting
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
