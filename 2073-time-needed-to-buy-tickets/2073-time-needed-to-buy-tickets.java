@@ -43,3 +43,7 @@ class Solution {
 
     }
 }
+
+// I solved and it first with overall idea, and then again I know for sure that this problem can be solved thorugh math, 
+// so I worked on it, and finally I did solved it all by  myself wwithout any help/nor the reference. I just made it happen, 
+// this proves that I'm getting so much better and greater... So, if I try hard enough, and push enough then definitely I'll become something more and graeter. I can feel that I'm getting so  much better and better at coding, and with more practice I'll get much more better. 
