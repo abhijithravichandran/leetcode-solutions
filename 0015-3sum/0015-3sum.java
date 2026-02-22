@@ -1,48 +1,37 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
+        int n = nums.length; 
+        HashMap<List<Integer>,Integer> map = new HashMap<>();
 
-        // int i = 0, j = i+1, k = nums.length-1; 
         List<List<Integer>> res = new ArrayList<>();
-        HashMap<List<Integer>, Integer> map = new HashMap<>();
-        for(int k = 0; k < nums.length-2; k++){
-
-            int i = k+1, j = nums.length-1; 
-            
+        for(int k = 0; k < n-2; k++){
+            int i = k+1, j = n-1;
             while(i < j){
-                
-                if(nums[k]+nums[i]+nums[j]==0 ) {
-                    res.add(Arrays.asList(nums[k],nums[i],nums[j]));
+                int num = nums[k]+nums[i]+nums[j];
+                List<Integer> row = new ArrayList<>();
+                row.add(nums[k]);
+                row.add(nums[i]);
+                row.add(nums[j]);
+                if(num==0 && !map.containsKey(row)){
+                    res.add(row);
+                    map.put(row,1);
                     i++; 
                     j--; 
-                    List<Integer> li = res.get(res.size()-1);
-                    map.put(li, map.getOrDefault(li,0)+1);
                 }
-                else if(nums[k]+nums[i]+nums[j] > 0){
-                    j--;
+                else if(num > 0){
+                    j--; 
                 }
-                else{  
-                    i++;
+                else if(num < 0){
+                    i++; 
                 }
-            } 
-        }
-        List<List<Integer>> finalRes =new ArrayList<>();
+                else {
+                    i++; 
+                    j--; 
+                }
 
-        for(int i = 0; i < res.size();i++){
-                // if(res.get(i).equals(res.get(i-1))){
-                //         res.remove(i);
-                // }
-                if(map.containsKey(res.get(i)) && map.get(res.get(i))==1){
-                    map.put(res.get(i), map.getOrDefault(res.get(i),0)-1);
-                    // map.remove(res.get(i));
-                    finalRes.add(res.get(i));
-                }
-                else if(map.containsKey(res.get(i))) {
-                    map.remove(res.get(i));
-                    finalRes.add(res.get(i));
-                }
+            }
         }
-
-        return finalRes; 
+        return res; 
     }
 }
