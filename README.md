@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2404-most-frequent-even-element](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2404-most-frequent-even-element](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
