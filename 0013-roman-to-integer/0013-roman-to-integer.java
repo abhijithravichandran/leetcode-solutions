@@ -1,6 +1,6 @@
 class Solution {
     public int romanToInt(String s) {
-        HashMap<Character,Integer> map = new HashMap<>();
+        // HashMap<Character,Integer> map = new HashMap<>();
         int n = s.length();
         // map.put('I', 1);
         // map.put('V', 5);
