@@ -22,9 +22,9 @@ class Solution {
                 hash.add(nums[j]);
             }
         }
-        for(List<Integer> list: set){
-            res.add(list);
-        }
-        return res; 
+        // for(List<Integer> list: set){
+        //     res.add(list);
+        // }
+        return new ArrayList<>(set); 
     }
 }
