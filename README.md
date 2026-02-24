@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search Tree
 |  |
@@ -435,4 +439,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
