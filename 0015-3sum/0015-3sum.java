@@ -1,44 +1,23 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Arrays.sort(nums);
         int n = nums.length; 
+        // List<List<Integer>> res = new ArrayList<>();
+        Set<List<Integer>> seen = new HashSet<>();
+        
 
-        List<List<Integer>> res = new ArrayList<>();
+        for(int i = 0; i < n; i++){
+            Set<Integer> hash = new HashSet<>();
+            for(int j = i+1; j < n; j++){
+                int third = -(nums[i]+nums[j]);
 
-        for(int k = 0; k < n-2; k++){
-            int i = k+1; 
-            int j = n-1; 
-
-            if(k > 0 && nums[k]==nums[k-1]) continue; // After seeing this line, and the complete logic, it is so amazing and magical 
-
-            // This code is so great, because they handled the duplicates in the logic whereas I was struggling with hashmap. This code is so great and next level-- It's beyond my thinking for now.. It is so good and great.... 
-
-            while(i < j){
-                int sum = nums[k]+nums[i]+nums[j];
-                int left = nums[i];
-                int right = nums[j];
-
-                if(sum==0){
-                    res.add(Arrays.asList(nums[k],nums[i],nums[j]));
-                    i++; 
-                    j--; 
-
-                    // Skip duplicates for left
-                    while(i < j &&  nums[i]==nums[i-1])i++; 
-
-                    // Skip duplicates for right
-                    while(j > i && nums[j]==nums[j+1]) j--; 
-
+                if(hash.contains(third)){
+                    List<Integer> temp = Arrays.asList(nums[i],third,nums[j]); 
+                    Collections.sort(temp);
+                    seen.add(temp);
                 }
-                else if(sum < 0){
-                    i++; 
-                }
-                else{
-                    j--;
-                }
+                hash.add(nums[j]);
             }
-            
         }
-        return res; 
+        return new ArrayList<>(seen);
     }
 }
