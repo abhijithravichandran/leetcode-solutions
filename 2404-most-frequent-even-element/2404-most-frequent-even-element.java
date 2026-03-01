@@ -1,19 +1,21 @@
 class Solution {
     public int mostFrequentEven(int[] nums) {
-        HashMap<Integer,Integer> hash = new HashMap<>();
-        for(int num: nums){
-            hash.put(num,hash.getOrDefault(num,0)+1);
+        HashMap<Integer,Integer> map= new HashMap<>();
 
-        }
-        Arrays.sort(nums);
-        int most = 0, ele = -1; 
+        int n = nums.length; 
+
         for(int num: nums){
-            int freq  = hash.get(num);
-            if(freq > most && num%2==0){
-                most = freq; 
+           if(num%2==0) map.put(num,map.getOrDefault(num,0)+1);
+        }
+        int ele = -1; 
+        int cnt= 0; 
+        for(int num: map.keySet()){
+            if(map.get(num) > cnt || (cnt==map.get(num) && num < ele)){
                 ele = num; 
+                cnt = map.get(num);
             }
         }
         return ele; 
+
     }
 }
