@@ -4,63 +4,55 @@ class Solution {
         return nums; 
     }
 
-    public void mergeSort(int[] arr, int l, int r){
-        if(l < r){  
-        int mid = (l+r)/2;
+    public void mergeSort(int[] nums, int l,int r){
+        if(l < r){
+            int mid = (l+r)/2;
 
-        mergeSort(arr,l,mid);
-        mergeSort(arr,mid+1,r);
-        merge(arr,l,mid,r);
+            mergeSort(nums,l,mid);
+            mergeSort(nums,mid+1,r);
+            merge(nums,l,mid,r);
         }
     }
+    public void merge(int[] nums,int l, int mid, int r){
+        int n = mid-l+1;
+        int m = r-mid; 
 
-    public void merge(int[] arr, int l, int mid, int r){
-        int len1 = mid - l +1;   // I can't think through this line of of code, the fixing the size of the array. 
-        int len2 = r - mid;
+        int[] arr1 = new int[n];
+        int[] arr2 = new int[m];
 
-        int[] arr1 = new int[len1];
-        int[] arr2 = new int[len2];
+        int left = 0, right = 0; 
 
-        for(int i = 0; i < len1; i++){
-            arr1[i] =  arr[l+i];
+        for(int i = 0; i < n; i++){
+            arr1[i] = nums[i+l];
         }
 
-        for(int i = 0; i < len2; i++){
-            arr2[i] = arr[mid+1+i];
+        for(int i = 0; i < m; i++){
+            arr2[i] = nums[mid+i+1];
         }
+        int ind = l; 
 
-        int i = 0, j = 0,ind = l; 
-
-        while(i < len1 && j < len2){
-            int left = arr1[i];
-            int right = arr2[j];
-
-            if(left < right){
-                arr[ind] = left; 
+        while(left < n && right  < m){
+            if(arr1[left] < arr2[right]){
+                nums[ind] = arr1[left++];
                 ind++; 
-                i++; 
             }
-            else if(right < left){
-                arr[ind] = right; 
-                ind++;
-                j++;  
+            else if(arr2[right] < arr1[left]){
+                nums[ind] = arr2[right++];
+                ind++; 
             }
             else{
-                arr[ind]= left; 
+                nums[ind] = arr1[left];
+                left++;
                 ind++; 
-                i++; 
             }
+
+        }
+        while(left < n){
+            nums[ind++]  = arr1[left++];
         }
 
-        while(i < len1){
-            arr[ind++] = arr1[i];
-            i++; 
+        while(right < m){
+            nums[ind++] = arr2[right++];
         }
-
-        while(j < len2){
-            arr[ind++] = arr2[j];
-            j++; 
-        }
-
     }
 }
