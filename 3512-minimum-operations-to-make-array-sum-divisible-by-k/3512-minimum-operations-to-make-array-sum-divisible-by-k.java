@@ -5,12 +5,8 @@ class Solution {
         for(int i = 0; i < n; i++){
             sum += nums[i];
         }
-        int cnt = 0; 
-        while(sum%k!=0){
-            sum -=1; 
-            cnt++; 
-        }
+        
 
-        return cnt; 
+        return sum%k; 
     }
 }
