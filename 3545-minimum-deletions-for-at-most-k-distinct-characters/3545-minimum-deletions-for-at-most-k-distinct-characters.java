@@ -1,22 +1,17 @@
 class Solution {
     public int minDeletion(String s, int k) {
-        HashMap<Character, Integer> map = new HashMap<>();
-        ArrayList<Integer> list = new ArrayList<>();
-        int sum = s.length(); 
-        for(int i = 0; i < s.length();i++){
+        int[] charFreq = new int[26];
+        for(int i = 0; i < s.length(); i++){
             char ch = s.charAt(i);
-            map.put(ch,map.getOrDefault(ch,0)+1);
+            charFreq[ch-'a']++; 
         }
-        for(Map.Entry<Character,Integer> entry : map.entrySet()){
-            list.add(entry.getValue());
-            
+
+        int minDel = 0; 
+        Arrays.sort(charFreq);
+        for(int i = 0; i < 26-k; i++){
+            minDel += charFreq[i];
         }
-        Collections.sort(list, Collections.reverseOrder());
-        if(map.size() < k) return 0; 
-        for(int i = 0; i < k; i++){
-            sum -= list.get(i);
-        }
-        return sum; 
-        
+
+        return minDel; 
     }
 }
