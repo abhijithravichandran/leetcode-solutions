@@ -22,9 +22,9 @@ class Solution {
                         i++; 
                         j--; 
 
-                        // while(i < j && nums[i]==nums[i-1])i++; 
+                        while(i < j && nums[i]==nums[i-1])i++; 
 
-                        // while(j > i && nums[j]==nums[j+1]) j--; 
+                        while(j > i && nums[j]==nums[j+1]) j--; 
                     }
                     else if(sum < tar) i++; 
                     else if(sum > tar) j--; 
