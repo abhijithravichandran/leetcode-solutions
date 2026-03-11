@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0468-validate-ip-address) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
