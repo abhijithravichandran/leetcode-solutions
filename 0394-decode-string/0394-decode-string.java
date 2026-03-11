@@ -17,7 +17,7 @@ class Solution {
                 if(!stack.isEmpty() && Character.isDigit(stack.peek())){
                     String str = "";
                     while( !stack.isEmpty() && Character.isDigit(stack.peek())){
-                        str = stack.pop() + str;
+                        str = stack.pop() + str;  //This is the new line I learnt to add in the front
                     }
    
                     int num = Integer.parseInt(str);
@@ -35,7 +35,6 @@ class Solution {
                 
             }
            else stack.push(ch);
-            
         }   
 
         for(char c: stack){
