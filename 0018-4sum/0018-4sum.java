@@ -3,22 +3,22 @@ class Solution {
         Arrays.sort(nums);
         int n  = nums.length; 
         long tar = target;
-        Set<List<Integer>> seen = new HashSet<>();
-        // List<List<Integer>> list = new ArrayList<>();
+        // Set<List<Integer>> seen = new HashSet<>();
+        List<List<Integer>> list = new ArrayList<>();
         for(int k = 0; k < n-3;  k++){
 
-            // if(k > 0 && nums[k]==nums[k-1]) continue; 
+            if(k > 0 && nums[k]==nums[k-1]) continue; 
 
             for(int l = k+1; l < n-2; l++){
 
-                // if(l > 1 && nums[l]==nums[l-1]) continue; 
+                if(l > k+1 && nums[l]==nums[l-1]) continue; 
 
                 int i = l+1, j = n-1; 
 
                 while(i < j){
                     long sum = (long)nums[k]+ (long) nums[l]+(long) nums[i]+(long) nums[j];
                     if(sum==tar){
-                        seen.add(Arrays.asList(nums[k],nums[l],nums[i],nums[j]));
+                        list.add(Arrays.asList(nums[k],nums[l],nums[i],nums[j]));
                         i++; 
                         j--; 
 
@@ -32,8 +32,8 @@ class Solution {
             }
         }
 
-        // return list; 
-        return new ArrayList<>(seen);
+        return list; 
+        // return new ArrayList<>(seen);
 
     }
 }
