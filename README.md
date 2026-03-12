@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1390-four-divisors) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2404-most-frequent-even-element](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
