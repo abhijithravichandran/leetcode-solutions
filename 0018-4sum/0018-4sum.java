@@ -1,39 +1,36 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
+        int n = nums.length; 
         Arrays.sort(nums);
-        int n  = nums.length; 
-        long tar = target;
-        // Set<List<Integer>> seen = new HashSet<>();
-        List<List<Integer>> list = new ArrayList<>();
-        for(int k = 0; k < n-3;  k++){
 
-            if(k > 0 && nums[k]==nums[k-1]) continue; 
+        List<List<Integer>> ans = new ArrayList<>();
 
-            for(int l = k+1; l < n-2; l++){
+        for(int i = 0; i < n; i++){
+            if(i > 0 && nums[i]==nums[i-1]) continue; 
 
-                if(l > k+1 && nums[l]==nums[l-1]) continue; 
+            for(int j = i+1; j < n; j++){
+                if(j > i+1 && nums[j]==nums[j-1]) continue; 
 
-                int i = l+1, j = n-1; 
+                int left = j+1; 
+                int right = n-1; 
 
-                while(i < j){
-                    long sum = (long)nums[k]+ (long) nums[l]+(long) nums[i]+(long) nums[j];
-                    if(sum==tar){
-                        list.add(Arrays.asList(nums[k],nums[l],nums[i],nums[j]));
-                        i++; 
-                        j--; 
+                while(left < right){
 
-                        while(i < j && nums[i]==nums[i-1])i++; 
+                    long sum = (long) nums[i]+nums[j]+nums[left]+nums[right];
+                    if(sum==target){
+                        ans.add(Arrays.asList(nums[i],nums[j],nums[left],nums[right]));
 
-                        while(j > i && nums[j]==nums[j+1]) j--; 
+                        while(left < right && nums[left]==nums[left+1]) left++; 
+                        while(left < right && nums[right]== nums[right-1]) right--; 
+
+                        left++; 
+                        right--; 
                     }
-                    else if(sum < tar) i++; 
-                    else if(sum > tar) j--; 
+                    else if(sum < target) left++; 
+                    else right--; 
                 }
             }
         }
-
-        return list; 
-        // return new ArrayList<>(seen);
-
+        return ans; 
     }
 }
