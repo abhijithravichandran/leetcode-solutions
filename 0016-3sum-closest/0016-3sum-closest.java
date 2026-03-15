@@ -16,13 +16,12 @@ class Solution {
                 int sum = nums[i]+nums[left]+nums[right]; 
                 int diff = Math.abs(sum-target);  // I written this line of code all by myself,my thinking got so great here.  
                 if(sum==target) return sum; 
+                else if(sum < target) left++; 
+                else if(sum > target) right--; 
                 if(diff < closest){
                     closest = diff; 
                     closeSum = sum;
                 }
-
-                if(sum < target) left++; 
-                else if(sum > target) right--; 
 
 
             }
