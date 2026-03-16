@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
