@@ -3,7 +3,7 @@ class Solution {
         int cnt = 0; 
         for(int num: nums){
             if(num%3==0) continue; 
-            if(num < 3 ){
+            else if(num < 3 ){
                 cnt++; 
             }
             else{
