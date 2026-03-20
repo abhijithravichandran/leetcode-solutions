@@ -11,7 +11,7 @@ class Solution {
                 if(balance > 0) sb.append(ch);
                 balance++; 
             }
-            else if(ch==')'){
+            else{
                 balance--; 
                 if(balance > 0) sb.append(ch);
             }
