@@ -17,6 +17,6 @@ class Solution {
             }
         }
 
-        return new String(sb);
+        return sb.toString();
     }
 }
