@@ -1,23 +1,28 @@
 class Solution {
     public String reverseWords(String s) {
+        List<String> words = new ArrayList<>();
 
-        s.trim();
-        String[] str = s.split(" ");
-        int n = str.length;
-        String[] str2 = new String[n];
+        StringBuilder word = new StringBuilder();
 
-        for(int i = n-1; i>=0 ;i--){
-            str2[i] = str[n-i-1];
-        }
+        for(int i = 0; i < s.length(); i++){
+            char ch = s.charAt(i);
 
-        StringBuilder sb = new StringBuilder();
-        for(String c: str2){
-            if(c.equals("")) continue; 
-            sb.append(c).append(" ");
-        }
+            if(ch!=' '){
+                word.append(ch);
+            }
+            else{
+                if(word.length() > 0){
+                    words.add(word.toString());
+                    word.setLength(0);
+                }
+            }
+        } 
 
-        String res = sb.toString().trim();
-        return res; 
+        if(word.length() > 0){
+            words.add(word.toString());
+        }  
 
+        Collections.reverse(words);
+        return String.join(" ",words);
     }
 }
