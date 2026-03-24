@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0867-transpose-matrix](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
