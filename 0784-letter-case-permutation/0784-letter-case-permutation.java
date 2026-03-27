@@ -1,13 +1,10 @@
 class Solution {
     public List<String> letterCasePermutation(String s) {
         
-        boolean isDigit = s.matches("\\d+");
+ 
 
         List<String> list = new ArrayList<>();
-        if(isDigit) {
-            list.add(s);
-            return list; 
-        }
+
         char[] arr = s.toCharArray();
         casePermutation(arr,list,0);
         return list; 
