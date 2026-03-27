@@ -16,9 +16,9 @@ class Solution {
 
     public void casePermutation(char[] arr, List<String> list, int ind){
         
-        if(ind < arr.length && Character.isDigit(arr[ind])){
-            while(ind < arr.length && Character.isDigit(arr[ind])) ind++; 
-        }
+        
+        while(ind < arr.length && Character.isDigit(arr[ind])) ind++; 
+        
 
         if(ind >= arr.length){
             list.add(String.valueOf(arr));
