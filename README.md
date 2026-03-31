@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3668-restore-finishing-order](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3708-longest-fibonacci-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3708-longest-fibonacci-subarray) |
 ## Stack
 |  |
 | ------- |
