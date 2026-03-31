@@ -1,78 +1,83 @@
 class Solution {
-    long cnt; 
+    int cnt = 0; 
     public int reversePairs(int[] nums) {
         cnt = 0; 
         mergeSort(nums,0,nums.length-1);
-        return (int) cnt; 
+        return cnt; 
     }
 
-    public void mergeSort(int[] nums, int l, int r){
-        if(l >= r) return; 
+    public void mergeSort(int[] arr, int l, int r){
+        if(l >= r){
+            return; 
+        }
+        int mid = (l+r)/2;
 
-        int mid = l+(r-l)/2;
-
-        mergeSort(nums,l,mid);
-        mergeSort(nums,mid+1,r);
-        merge(nums,l,mid,r);
+        mergeSort(arr,l,mid);
+        mergeSort(arr,mid+1,r);
+        merge(arr,l,mid,r);
     }
-    
-    public void merge(int[] nums, int l, int mid, int r){
 
-        int len1 = mid-l+1; 
-        int len2 = r-mid; 
+    public void countPair(int[] arr1, int[] arr2){
+        int n1 = arr1.length; 
+        int n2 = arr2.length; 
+
+        int l = 0, r = 0; 
+
+        while(l < n1 && r < n2){
+            long num1 = arr1[l];
+            long num2 = arr2[r];
+            if(num1 > num2*2){
+                cnt += (n1-l);
+                r++; 
+            }
+            else{
+                l++; 
+            }
+        }
+
+    }
+
+    public void merge(int[] arr, int l, int mid, int r){
+
+        int len1 = mid-l+1;
+        int len2 = r-mid;
 
         int[] arr1 = new int[len1];
         int[] arr2 = new int[len2];
 
-        for(int i = 0;i < len1; i++){
-            arr1[i] = nums[i+l];
+        for(int i = 0; i < len1; i++){
+            arr1[i] = arr[l+i]; 
         }
 
         for(int i = 0; i < len2; i++){
-            arr2[i] = nums[mid+1+i];
+            arr2[i] = arr[mid+i+1];
         }
 
-        cntReverse(arr1,arr2);
+        countPair(arr1,arr2);
 
-        int left = 0, right = 0, ind = l; 
-
+        int right = 0, left = 0, ind = l; 
         while(left < len1 && right < len2){
 
             if(arr1[left] < arr2[right]){
-                nums[l] = arr1[left];
+                arr[ind] = arr1[left];
                 left++; 
             }
             else{
-                nums[l] = arr2[right];
+                arr[ind] = arr2[right];
                 right++; 
             }
-            l++; 
+            ind++; 
         }
 
         while(left < len1){
-            nums[l++] = arr1[left++];
-        } 
+            arr[ind] = arr1[left];
+            ind++; 
+            left++; 
+        }
 
         while(right < len2){
-            nums[l++] = arr2[right++];
+            arr[ind++] = arr2[right++];
         }
-        
 
-    }
-    public void cntReverse(int[] arr1, int[] arr2){
-        int l = 0, r = 0, len1 = arr1.length; 
-        long num1 = 0, num2 = 0; 
-
-        while(l < arr1.length && r < arr2.length){
-            num1 = arr1[ l];
-            num2 = arr2[ r];
-
-            if(num1 >  num2*2){
-                cnt += (len1-l);
-                r++; 
-            }
-            else l++; 
-            
-        }
     }
 }
