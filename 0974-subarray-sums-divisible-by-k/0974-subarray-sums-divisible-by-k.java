@@ -9,11 +9,14 @@ class Solution {
         for(int i = 0; i < n; i++){
             prefix += nums[i];
 
-            if(hash.containsKey(prefix%k)){
-                cnt += hash.get(prefix%k);
+            int rem = prefix%k; 
+            if(rem < 0) rem += k; 
+
+            if(hash.containsKey(rem)){
+                cnt += hash.get(rem);
             }
 
-            hash.put(prefix%k,hash.getOrDefault(prefix%k,0)+1);
+            hash.put(rem,hash.getOrDefault(rem,0)+1);
         }
 
         return cnt; 
