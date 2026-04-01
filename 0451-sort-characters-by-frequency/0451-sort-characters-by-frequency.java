@@ -1,12 +1,17 @@
 class Solution {
     public String frequencySort(String s) {
-        int n = s.length();
-        Character[] str = new Character[n];
         HashMap<Character,Integer> hash = new HashMap<>();
-        for(int i = 0; i < n; i++){
-            str[i] = s.charAt(i);
-            hash.put(s.charAt(i),hash.getOrDefault(s.charAt(i),0)+1);
-        } 
+
+        Character[] str = new Character[s.length()];
+
+        
+
+        for(int i = 0; i < s.length();i++){
+            char ch = s.charAt(i);
+            str[i] = ch; 
+            hash.put(ch,hash.getOrDefault(ch,0)+1);
+        }
+
         Arrays.sort(str);
 
         Arrays.sort(str, (a,b)->{
@@ -16,13 +21,16 @@ class Solution {
             if(f1!=f2){
                 return f2-f1;
             }
-            else return 0;
-        } );
-        char[] res = new char[n];
-        for(int i = 0; i < n; i++){
-            res[i] = str[i];
-         }
+            else return 0; 
+        });
 
-         return new String(res);
+        char[] res = new char[s.length()];
+
+        for(int i= 0; i < res.length; i++){
+            res[i] = str[i];
+        }
+
+        return new String(res);
+
     }
 }
