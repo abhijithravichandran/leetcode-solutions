@@ -1,37 +1,32 @@
 class Solution {
     public List<String> letterCasePermutation(String s) {
-        
- 
-
-        List<String> list = new ArrayList<>();
-
         char[] arr = s.toCharArray();
-        casePermutation(arr,list,0);
-        return list; 
-
+        List<String> res = new ArrayList<>();
+        permutations(arr,res,0);
+        return res; 
     }
 
-    public void casePermutation(char[] arr, List<String> list, int ind){
-        
-        
-        while(ind < arr.length && Character.isDigit(arr[ind])) ind++; 
-        
+    public void permutations(char[] arr, List<String> res, int ind){
 
-        if(ind >= arr.length){
-            list.add(String.valueOf(arr));
+        while(ind < arr.length && !Character.isLetter(arr[ind])){
+            ind++; 
+        }
+        
+        if(ind==arr.length){
+            res.add(new String(arr));
             return; 
         }
 
+        
+        
+
         char ch = arr[ind];
 
-        if(Character.isUpperCase(ch)){
-            arr[ind] = Character.toLowerCase(ch);
-        }
-        else arr[ind] = Character.toUpperCase(ch);
-        casePermutation(arr,list,ind+1);
+        if(Character.isUpperCase(ch)) arr[ind] = Character.toLowerCase(ch);
+        else if(Character.isLowerCase(ch)) arr[ind] = Character.toUpperCase(ch);
+        permutations(arr,res,ind+1);
 
-    
         arr[ind] = ch; 
-        casePermutation(arr,list,ind+1);
+        permutations(arr,res,ind+1);
     }
 }
