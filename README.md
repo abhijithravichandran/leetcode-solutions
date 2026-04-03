@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3026-maximum-good-subarray-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2574-left-and-right-sum-differences](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3026-maximum-good-subarray-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3026-maximum-good-subarray-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3606-coupon-code-validator) |
