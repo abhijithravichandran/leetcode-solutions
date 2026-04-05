@@ -1,29 +1,28 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
         int[] arr = new int[n];
-        for(int i = 1; i < n+1; i++){
-            arr[i-1] = i; 
+        for(int i = 0; i < n; i++){
+            arr[i] = i+1; 
         }
         List<Integer> list = new ArrayList<>();
         List<List<Integer>> res = new ArrayList<>();
-        combo(arr,0,res,k,n,list);
-
+        combo(arr,res,list,0,k);
         return res; 
 
     }
 
-    public void combo(int[] arr,int st,List<List<Integer>> res, int k, int n, List<Integer> list){
-
+    public void combo(int[] arr, List<List<Integer>> res, List<Integer> list, int ind, int k){
         if(k==0){
             res.add(new ArrayList<>(list));
             return; 
         }
 
-        for(int i = st; i < n; i++){
+        for(int i = ind; i < arr.length; i++){
 
             list.add(arr[i]);
-            combo(arr,i+1,res,k-1,n,list);
+            combo(arr,res,list,i+1,k-1);
             list.remove(list.size()-1);
         }
+
     }
 }
