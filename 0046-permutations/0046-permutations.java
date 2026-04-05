@@ -5,28 +5,27 @@ class Solution {
         return res; 
     }
 
-    public void permutations(int[] nums, List<List<Integer>> res, int ind){
-
-        if(ind==nums.length){
+    public void permutations(int[] nums, List<List<Integer>> res, int st){
+        if(st==nums.length){
             List<Integer> list = new ArrayList<>();
-            for(int num: nums){
-                list.add(num);
+            for(int each: nums){
+                list.add(each);
             }
-            res.add(list);
+            res.add(new ArrayList<>(list));
             return; 
         }
 
-        for(int i = ind; i < nums.length; i++){
+        for(int i = st; i < nums.length; i++){
+            int temp = nums[i];
+            nums[i] = nums[st];
+            nums[st] = temp; 
 
-            int temp = nums[ind];
-            nums[ind] = nums[i];
-            nums[i] = temp; 
+            permutations(nums,res,st+1);
 
-            permutations(nums,res,ind+1);
-
-            temp = nums[ind];
-            nums[ind] = nums[i];
-            nums[i] = temp; 
+            temp = nums[i];
+            nums[i] = nums[st];
+            nums[st] = temp; 
         }
     }
+
 }
