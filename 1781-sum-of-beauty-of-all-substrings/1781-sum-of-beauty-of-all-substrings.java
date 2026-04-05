@@ -16,7 +16,7 @@ class Solution {
                     hash.put(ch,hash.get(ch)+1);
                 }
                 else{
-                    hash.put(ch,0);
+                    hash.put(ch,1);
                 }
                 minHeap.add(hash.get(ch));
 
