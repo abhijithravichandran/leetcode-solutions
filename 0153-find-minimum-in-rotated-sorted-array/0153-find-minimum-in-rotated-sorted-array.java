@@ -1,18 +1,25 @@
 class Solution {
-    public int findMin(int[] nums) {
-        
-        int low = 0, high = nums.length-1;
-        
-        while(low < high){
-            int mid = (low + high)/2;
-            if(nums[mid] > nums[high]){
-                low = mid + 1;
+    public int findMin(int[] arr) {
+        int n = arr.length, low = 0, high = n-1, min = Integer.MAX_VALUE;
+
+        // Simply-I'm taking the possible minimum and reducing the search-space. 
+        // Just reducing the search space - because in rotated array, either half will be sorted 
+
+        while(low <= high){
+
+            int mid = low + (high-low)/2;
+
+            if(arr[low] <= arr[mid]){
+                min = Math.min(arr[low], min);
+                low = mid + 1; 
             }
             else{
-                high = mid;
+                min = Math.min(arr[mid],min);
+                high = mid - 1; 
             }
-        
+
         }
-        return nums[low];
+
+        return min; 
     }
 }
