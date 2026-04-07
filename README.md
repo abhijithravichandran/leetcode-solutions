@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0918-maximum-sum-circular-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
@@ -591,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
