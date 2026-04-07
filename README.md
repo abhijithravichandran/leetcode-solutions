@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
