@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1856-maximum-subarray-min-product](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1920-build-array-from-permutation](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1975-maximum-matrix-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1856-maximum-subarray-min-product](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1856-maximum-subarray-min-product](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1856-maximum-subarray-min-product](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1856-maximum-subarray-min-product) |
 | [2574-left-and-right-sum-differences](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3026-maximum-good-subarray-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
