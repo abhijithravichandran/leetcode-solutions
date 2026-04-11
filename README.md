@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0819-most-common-word](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0867-transpose-matrix](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
