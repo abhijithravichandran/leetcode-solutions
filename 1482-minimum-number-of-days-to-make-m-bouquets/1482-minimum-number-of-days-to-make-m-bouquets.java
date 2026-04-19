@@ -1,40 +1,44 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
-        int low = 1, high = Arrays.stream(bloomDay).max().getAsInt(), ans = -1; 
+        if(bloomDay.length/k < m) return -1; 
+        int low = 1, high = Arrays.stream(bloomDay).max().getAsInt();
 
         while(low <= high){
+
             int mid = low + (high-low)/2;
-            boolean status = bouquets(bloomDay,m,k,mid);
-            if(status){
-                ans = mid; 
+
+            if(bouquet(bloomDay,mid,k,m)){
+                
                 high = mid - 1; 
             }
             else{
                 low = mid + 1; 
             }
         }
-        return ans; 
+
+        return low; 
+
     }
-    public boolean bouquets(int[] nums, int m, int k, int d){
-        
-        int totalB = 0, flower = 0; 
 
-        for(int num: nums){
+    public boolean bouquet(int[] bloomDay, int d,int k,int m){
+        int curB = 0, totalB = 0; 
 
-            if(num <= d){
-                flower++; 
+        for(int b: bloomDay){
+
+            if(b <= d){
+                curB++; 
             }
             else{
-                flower = 0; 
+                curB = 0; 
             }
 
-            if(flower==k){
+            if(curB==k){
                 totalB++; 
-                flower = 0; 
+                curB = 0; 
             }
-            if(totalB >=m) return true; 
         }
 
-        return false; 
+        return totalB>=m;
+
     }
 }
