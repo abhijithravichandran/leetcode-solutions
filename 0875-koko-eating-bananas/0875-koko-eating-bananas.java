@@ -1,17 +1,14 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int low = 1, high = 0;
-        for(int num: piles){
-            high = Math.max(high,num);
-        }
+        int low = 1, high = Arrays.stream(piles).max().getAsInt(), ans = -1; 
 
         while(low <= high){
-
             int mid = low + (high-low)/2;
 
-            long total = totalHour(piles,mid);
+            int timeTaken = totalHour(piles,mid);
 
-            if(total <= h){
+            if(timeTaken <= h){
+                ans = mid; 
                 high = mid - 1; 
             }
             else{
@@ -19,17 +16,15 @@ class Solution {
             }
         }
 
-        return low; 
+        return ans; 
     }
 
-    public long totalHour(int[] nums, int k){
-        long sum = 0; 
-
-        for(int num: nums){
-            
-            sum += (num+(long) k - 1)/k;
+    public int totalHour(int[] piles, int b){
+        int tHours = 0; 
+        for(int p: piles){
+            tHours += (p+b-1)/b;
         }
 
-        return  sum; 
+        return tHours; 
     }
 }
