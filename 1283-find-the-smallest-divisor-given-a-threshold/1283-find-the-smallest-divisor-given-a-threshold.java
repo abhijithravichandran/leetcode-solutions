@@ -1,31 +1,31 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
-        int low = 1, high = Integer.MAX_VALUE, ans = -1; 
+        int low= 1, high = Arrays.stream(nums).max().getAsInt(), ans = -1; 
 
         while(low <= high){
 
             int mid = low + (high-low)/2;
 
-            int sum = DivSum(nums,mid);
+            int val = sum(nums,mid);
 
-            if(sum > threshold){
-                low = mid + 1; 
+            if(val <= threshold){
+                ans = mid; 
+                high = mid - 1; 
             }
             else{
-                high = mid - 1;  
-                ans = mid; 
+                low = mid + 1; 
             }
         }
 
         return ans; 
-        
-    }
-    public int DivSum(int[] nums, int k){
-        int sum = 0; 
 
-        for(int num: nums){
-            int n = (num+k-1)/k;
-            sum += n; 
+
+    }
+
+    public int sum(int[] nums, int d){
+        int sum = 0; 
+        for(int n: nums){
+            sum += (n+d-1)/d;
         }
 
         return sum; 
