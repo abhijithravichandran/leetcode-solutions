@@ -8,6 +8,7 @@ class Solution {
 
             int d = totalDays(weights,mid);
 
+            // What this line says is, if it's less than given days then we will save that and then we will check if any days that exists smaller than this day, that's why moving high = mid - 1; 
             if(d <= days){
                 ans = mid; 
                 high = mid - 1; 
@@ -32,7 +33,7 @@ class Solution {
             else{
                 sum += w; 
             }
-        }
+        }  
 
         return days; 
     }
