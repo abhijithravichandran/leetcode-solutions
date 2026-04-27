@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
@@ -652,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
