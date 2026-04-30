@@ -1,28 +1,40 @@
 class MyStack {
-    Deque<Integer> q; 
-    int size = 0; 
+    Queue<Integer> q1; 
+    Queue<Integer> q2;
     public MyStack() {
-        q = new ArrayDeque();
+        q1 = new LinkedList<>();
+        q2 = new LinkedList<>();
     }
     
     public void push(int x) {
-        q.offer(x);
-        size++; 
+        if(q1.isEmpty()){
+            q1.offer(x);
+        }
+        else{
+            while(!q1.isEmpty()){
+                q2.offer(q1.poll());
+            }
+            q1.add(x);
+            while(!q2.isEmpty()){
+                q1.offer(q2.poll());
+            }
+        }
     }
     
     public int pop() {
-        size--; 
-       return q.removeLast();
+        return q1.poll();
     }
     
     public int top() {
-        return q.peekLast();
+        return q1.peek();
     }
     
     public boolean empty() {
-        return size==0; 
+        return q1.isEmpty();
     }
 }
+
+// 1 2 3 4 5 
 
 /**
  * Your MyStack object will be instantiated and called as such:
