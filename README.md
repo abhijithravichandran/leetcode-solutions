@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1975-maximum-matrix-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
