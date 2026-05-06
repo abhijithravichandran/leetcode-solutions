@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
