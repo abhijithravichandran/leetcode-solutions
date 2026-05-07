@@ -1,30 +1,19 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        Arrays.sort(nums);
-        int n = nums.length; 
+        HashMap<Integer, Integer> hash = new HashMap<>();
         int op = 0; 
-        int l = 0, r = n - 1; 
+        for(int i: nums){
+            int diff = k-i; 
 
-        while(l < r){
-
-            int left = nums[l];
-            int right  = nums[r];
-            
-            int sum = left + right; 
-
-            if(sum==k){
+            if(hash.containsKey(diff)){
                 op++; 
-                l++; 
-                r--; 
+                hash.put(diff,hash.get(diff)-1);
+                if(hash.get(diff) <= 0) hash.remove(diff);
             }
-            else if(sum < k){
-                l++; 
-            }
-            else{
-                r--; 
-            }
-        } 
+            else  hash.put(i,hash.getOrDefault(i,0)+1);
+        
+        }
 
-        return op;    
+        return op; 
     }
 }
