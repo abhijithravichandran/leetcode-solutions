@@ -1,6 +1,12 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int low = Arrays.stream(nums).max().getAsInt(), high = Arrays.stream(nums).sum();
+        // int low = Arrays.stream(nums).max().getAsInt(), high = Arrays.stream(nums).sum();
+        int low = 0, high = 0; 
+
+        for(int i: nums){
+            low = Math.max(low,i);
+            high += i; 
+        }
 
 
         while(low <= high){
