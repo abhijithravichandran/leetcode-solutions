@@ -45,3 +45,4 @@ class Solution {
 
 
 // Whenever it comes to BS on answer, then we need to decide on which should we search for answer, in range of what. Here the [max-totalSum] - this is the range here. 
+/* I was able to solve this probelm easily within 10min, and that's because it's exactly the pattern of previous problem, and don't confuse with minOfmax , it's just BS ON ANSWER, all we need to think is, which direction should we move when we hit hit the answer and that is only thing influenced by minOfMax */
