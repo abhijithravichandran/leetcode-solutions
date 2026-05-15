@@ -10,10 +10,10 @@ class Solution {
                 low = mid + 1; 
             }
             else{
-                high = mid;
+                high = mid; 
             }
         }
         
-        return nums[low];
+        return nums[high];
     }
 }
