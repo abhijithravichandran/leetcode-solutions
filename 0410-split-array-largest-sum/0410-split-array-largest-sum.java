@@ -1,47 +1,42 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        // int low = Arrays.stream(nums).max().getAsInt(), high = Arrays.stream(nums).sum();
-        int low = 0, high = 0; 
-
-        for(int i: nums){
-            low = Math.max(low,i);
-            high += i; 
-        }
+        int low = Arrays.stream(nums).max().getAsInt(), high = Arrays.stream(nums).sum();
 
 
         while(low <= high){
-            
+
             int mid = low + (high-low)/2;
 
-            if(split(nums,k,mid)){
-                high = mid - 1;
+            if(splitting(nums,k,mid)){
+                high = mid - 1; 
             }
             else{
                 low = mid + 1; 
             }
-
         }
-
         return low; 
+
     }
 
-    public boolean split(int[] arr, int k, int d){
-        int sum = 0, curSplit = 1; 
+    public boolean splitting(int[] nums, int k, int limit){
+        int sum = 0, subArr = 1; 
 
-        for(int a: arr){
-
-            if(sum + a > d){
-                curSplit++; 
-                sum = a; 
+        for(int i: nums){
+            if(sum + i > limit){
+                subArr++; 
+                sum = i; 
             }
             else{
-                sum += a; 
+                sum += i; 
             }
         }
 
-        return curSplit <= k; 
+        return subArr <= k; 
     }
 }
+
+
+
 
 
 // Whenever it comes to BS on answer, then we need to decide on which should we search for answer, in range of what. Here the [max-totalSum] - this is the range here. 
