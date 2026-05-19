@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2404-most-frequent-even-element](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
