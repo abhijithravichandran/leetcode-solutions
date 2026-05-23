@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
