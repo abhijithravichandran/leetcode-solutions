@@ -1,15 +1,9 @@
 class Solution {
     public int maximumProduct(int[] nums) {
         int  n = nums.length; 
-        
-        // Arrays.sort(nums);
+
         int prod1 = 0, prod2 = 0; 
-        
-        // prod1 = nums[n-1] * nums[n-2] * nums[n-3];
 
-        // prod2 = nums[0] * nums[1] * nums[n-1];
-
-        // return Math.max(prod1,prod2);
         int min1 = 0, min2 = 0; 
         int max1 = Integer.MIN_VALUE, max2 = Integer.MIN_VALUE, max3 = Integer.MIN_VALUE; 
 
@@ -41,9 +35,7 @@ class Solution {
         prod1 = max1 * max2 * max3;  
         prod2 = max1 * min1 * min2; 
 
-
         return Math.max(prod1,prod2);
-
 
     }
 }
