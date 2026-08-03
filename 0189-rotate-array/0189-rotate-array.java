@@ -4,7 +4,7 @@ class Solution {
 
         k = k%n; 
 
-        if(n==0) return;
+        // if(n==0) return;
 
         rev(nums,n-k,n-1);
         rev(nums,0,n-k-1);
