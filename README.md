@@ -746,4 +746,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
