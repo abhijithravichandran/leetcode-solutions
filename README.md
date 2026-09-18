@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1328-break-a-palindrome](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1446-consecutive-characters](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [1328-break-a-palindrome](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/abhijithravichandran/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
