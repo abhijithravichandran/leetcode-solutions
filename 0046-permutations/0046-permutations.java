@@ -16,11 +16,12 @@ class Solution {
         }
 
         for(int i = st; i < nums.length; i++){
+
             int temp = nums[i];
             nums[i] = nums[st];
             nums[st] = temp; 
 
-            permutations(nums,res,st+1);
+            permutations(nums,res, st+1);
 
             temp = nums[i];
             nums[i] = nums[st];
